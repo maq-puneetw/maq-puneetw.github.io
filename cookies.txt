@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.dilseeducationfoundation.org	TRUE	/	FALSE	1999999999	crumb	AfYYcs21EwZpdoJCcudbCCy-Qq8e5XyV
-.dilseeducationfoundation.org	TRUE	/	FALSE	1999999999	SS_MID	b2b5e004-e478-4766-b0ad-1cb14a566f15is8kxkjr
-www.dilseeducationfoundation.org	TRUE	/	FALSE	1999999999	ss_cid	ecc20c6c-606a-41a4-9385-f17c5466328e
-www.dilseeducationfoundation.org	TRUE	/	FALSE	1999999999	ss_cvisit	1472023750671
-www.dilseeducationfoundation.org	TRUE	/	FALSE	1999999999	ss_cpvisit	1472023750671
-
